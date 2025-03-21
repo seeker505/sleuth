@@ -1,0 +1,313 @@
+{
+  "timestamp": "2025-03-21T19:03:51.372712599+05:30",
+  "tls": {
+    "host": "example.com",
+    "port": "443",
+    "probe_status": true,
+    "tls_version": "tls13",
+    "cipher": "TLS_AES_256_GCM_SHA384",
+    "not_before": "2025-01-15T00:00:00Z",
+    "not_after": "2026-01-15T23:59:59Z",
+    "subject_dn": "CN=*.example.com, O=Internet Corporation for Assigned Names and Numbers, L=Los Angeles, ST=California, C=US",
+    "subject_cn": "*.example.com",
+    "subject_org": [
+      "Internet Corporation for Assigned Names and Numbers"
+    ],
+    "subject_an": [
+      "*.example.com",
+      "example.com"
+    ],
+    "serial": "0A:D8:93:BA:FA:68:B0:B7:FB:7A:40:4F:06:EC:AF:9A",
+    "issuer_dn": "CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1, O=DigiCert Inc, C=US",
+    "issuer_cn": "DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "issuer_org": [
+      "DigiCert Inc"
+    ],
+    "fingerprint_hash": {
+      "md5": "c33979ff8bc19a94820d6804b3681881",
+      "sha1": "310db7af4b2bc9040c8344701aca08d0c69381e3",
+      "sha256": "455943cf819425761d1f950263ebf54755d8d684c25535943976f488bc79d23b"
+    },
+    "wildcard_certificate": true,
+    "tls_connection": "ctls",
+    "sni": "example.com"
+  },
+  "port": "443",
+  "url": "https://example.com",
+  "input": "*.example.com",
+  "title": "Example Domain",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "23.215.0.138",
+  "path": "/",
+  "time": "1.473365103s",
+  "a": [
+    "23.215.0.138",
+    "96.7.128.198",
+    "23.215.0.136",
+    "96.7.128.175",
+    "23.192.228.80",
+    "23.192.228.84"
+  ],
+  "aaaa": [
+    "2600:1408:ec00:36::1736:7f31",
+    "2600:1406:3a00:21::173e:2e66",
+    "2600:1406:bc00:53::b81e:94c8",
+    "2600:1406:bc00:53::b81e:94ce",
+    "2600:1406:3a00:21::173e:2e65",
+    "2600:1408:ec00:36::1736:7f24"
+  ],
+  "tech": [
+    "HTTP/3"
+  ],
+  "words": 298,
+  "lines": 46,
+  "status_code": 200,
+  "content_length": 1256,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  },
+  "resolvers": [
+    "1.0.0.1:53",
+    "8.8.8.8:53"
+  ]
+}
+{
+  "timestamp": "2025-03-21T19:03:48.064340521+05:30",
+  "port": "443",
+  "url": "https://example.com",
+  "input": "example.com",
+  "title": "Example Domain",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "96.7.128.198",
+  "path": "/",
+  "time": "1.12196449s",
+  "a": [
+    "23.192.228.80",
+    "96.7.128.198",
+    "23.215.0.138",
+    "23.215.0.136",
+    "96.7.128.175",
+    "23.192.228.84"
+  ],
+  "aaaa": [
+    "2600:1406:3a00:21::173e:2e66",
+    "2600:1408:ec00:36::1736:7f31",
+    "2600:1406:bc00:53::b81e:94c8",
+    "2600:1406:3a00:21::173e:2e65",
+    "2600:1406:bc00:53::b81e:94ce",
+    "2600:1408:ec00:36::1736:7f24"
+  ],
+  "tech": [
+    "HTTP/3"
+  ],
+  "words": 298,
+  "lines": 46,
+  "status_code": 200,
+  "content_length": 1256,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  },
+  "resolvers": [
+    "1.0.0.1:53",
+    "8.8.8.8:53"
+  ]
+}
+{
+  "timestamp": "2025-03-21T19:03:50.814921208+05:30",
+  "tls": {
+    "host": "example.com",
+    "port": "443",
+    "probe_status": true,
+    "tls_version": "tls13",
+    "cipher": "TLS_AES_256_GCM_SHA384",
+    "not_before": "2025-01-15T00:00:00Z",
+    "not_after": "2026-01-15T23:59:59Z",
+    "subject_dn": "CN=*.example.com, O=Internet Corporation for Assigned Names and Numbers, L=Los Angeles, ST=California, C=US",
+    "subject_cn": "*.example.com",
+    "subject_org": [
+      "Internet Corporation for Assigned Names and Numbers"
+    ],
+    "subject_an": [
+      "*.example.com",
+      "example.com"
+    ],
+    "serial": "0A:D8:93:BA:FA:68:B0:B7:FB:7A:40:4F:06:EC:AF:9A",
+    "issuer_dn": "CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1, O=DigiCert Inc, C=US",
+    "issuer_cn": "DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "issuer_org": [
+      "DigiCert Inc"
+    ],
+    "fingerprint_hash": {
+      "md5": "c33979ff8bc19a94820d6804b3681881",
+      "sha1": "310db7af4b2bc9040c8344701aca08d0c69381e3",
+      "sha256": "455943cf819425761d1f950263ebf54755d8d684c25535943976f488bc79d23b"
+    },
+    "wildcard_certificate": true,
+    "tls_connection": "ctls",
+    "sni": "example.com"
+  },
+  "port": "443",
+  "url": "https://example.com",
+  "input": "https://example.com",
+  "title": "Example Domain",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "23.215.0.138",
+  "path": "/",
+  "time": "1.106451242s",
+  "a": [
+    "23.215.0.138",
+    "96.7.128.198",
+    "23.215.0.136",
+    "96.7.128.175",
+    "23.192.228.80",
+    "23.192.228.84"
+  ],
+  "aaaa": [
+    "2600:1408:ec00:36::1736:7f31",
+    "2600:1406:3a00:21::173e:2e66",
+    "2600:1406:bc00:53::b81e:94c8",
+    "2600:1406:bc00:53::b81e:94ce",
+    "2600:1406:3a00:21::173e:2e65",
+    "2600:1408:ec00:36::1736:7f24"
+  ],
+  "tech": [
+    "HTTP/3"
+  ],
+  "words": 298,
+  "lines": 46,
+  "status_code": 200,
+  "content_length": 1256,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  },
+  "resolvers": [
+    "1.0.0.1:53",
+    "8.8.8.8:53"
+  ]
+}
+{
+  "timestamp": "2025-03-21T19:03:49.890386759+05:30",
+  "tls": {
+    "host": "www.example.com",
+    "port": "443",
+    "probe_status": true,
+    "tls_version": "tls13",
+    "cipher": "TLS_AES_256_GCM_SHA384",
+    "not_before": "2025-01-15T00:00:00Z",
+    "not_after": "2026-01-15T23:59:59Z",
+    "subject_dn": "CN=*.example.com, O=Internet Corporation for Assigned Names and Numbers, L=Los Angeles, ST=California, C=US",
+    "subject_cn": "*.example.com",
+    "subject_org": [
+      "Internet Corporation for Assigned Names and Numbers"
+    ],
+    "subject_an": [
+      "*.example.com",
+      "example.com"
+    ],
+    "serial": "0A:D8:93:BA:FA:68:B0:B7:FB:7A:40:4F:06:EC:AF:9A",
+    "issuer_dn": "CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1, O=DigiCert Inc, C=US",
+    "issuer_cn": "DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "issuer_org": [
+      "DigiCert Inc"
+    ],
+    "fingerprint_hash": {
+      "md5": "c33979ff8bc19a94820d6804b3681881",
+      "sha1": "310db7af4b2bc9040c8344701aca08d0c69381e3",
+      "sha256": "455943cf819425761d1f950263ebf54755d8d684c25535943976f488bc79d23b"
+    },
+    "wildcard_certificate": true,
+    "tls_connection": "ctls",
+    "sni": "www.example.com"
+  },
+  "port": "443",
+  "url": "https://www.example.com",
+  "input": "https://www.example.com",
+  "title": "Example Domain",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "23.55.245.211",
+  "path": "/",
+  "time": "182.176908ms",
+  "a": [
+    "23.55.245.177",
+    "23.55.245.211"
+  ],
+  "aaaa": [
+    "2405:200:1630:1600::312c:af09",
+    "2405:200:1630:1600::312c:af11"
+  ],
+  "cname": [
+    "www.example.com-v4.edgesuite.net",
+    "a1422.dscr.akamai.net"
+  ],
+  "tech": [
+    "HTTP/3"
+  ],
+  "words": 298,
+  "lines": 46,
+  "status_code": 200,
+  "content_length": 1256,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  },
+  "resolvers": [
+    "1.1.1.1:53",
+    "8.8.4.4:53"
+  ]
+}
+{
+  "timestamp": "2025-03-21T19:03:47.145986171+05:30",
+  "port": "443",
+  "url": "https://www.example.com",
+  "input": "www.example.com",
+  "title": "Example Domain",
+  "scheme": "https",
+  "content_type": "text/html",
+  "method": "GET",
+  "host": "23.213.0.75",
+  "path": "/",
+  "time": "204.729749ms",
+  "a": [
+    "23.213.0.105",
+    "23.213.0.75"
+  ],
+  "aaaa": [
+    "2405:200:1630:1600::312c:af09",
+    "2405:200:1630:1600::312c:af11"
+  ],
+  "cname": [
+    "www.example.com-v4.edgesuite.net",
+    "a1422.dscr.akamai.net"
+  ],
+  "tech": [
+    "HTTP/3"
+  ],
+  "words": 298,
+  "lines": 46,
+  "status_code": 200,
+  "content_length": 1256,
+  "failed": false,
+  "knowledgebase": {
+    "PageType": "nonerror",
+    "pHash": 0
+  },
+  "resolvers": [
+    "1.1.1.1:53",
+    "8.8.4.4:53"
+  ]
+}

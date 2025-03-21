@@ -1,0 +1,8 @@
+
+; <<>> DiG 9.18.12-0ubuntu0.22.04.2-Ubuntu <<>> axfr example.com @b.iana-servers.net.
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.18.12-0ubuntu0.22.04.2-Ubuntu <<>> axfr example.com @a.iana-servers.net.
+;; global options: +cmd
+; Transfer failed.

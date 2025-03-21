@@ -1,0 +1,43 @@
+[0;32m
+           ________                ____  __            __
+          / ____/ /___  __  ______/ / / / /_  ______  / /____  _____
+         / /   / / __ \/ / / / __  / /_/ / / / / __ \/ __/ _ \/ ___/
+        / /___/ / /_/ / /_/ / /_/ / __  / /_/ / / / / /_/  __/ /
+        \____/_/\____/\__,_/\__,_/_/ /_/\__,_/_/ /_/\__/\___/_/  v0.7.1
+        
+[0;0m
+[>] Bruteforce 403 name permutations.
+
+[+] Check Google Cloud
+[0;34m    Google App Engine     example.com-azure.appspot.com             	OPEN      [0;0m
+[0;34m    Google App Engine     example.comapi.appspot.com                	OPEN      [0;0m
+[0;34m    Google App Engine     example.com.data-private.appspot.com      	OPEN      WebApp Error[0;0m
+[0;34m    Google App Engine     example.com-service.appspot.com           	OPEN      WebApp Error[0;0m
+[0;34m    Google App Engine     example.com-test.appspot.com              	OPEN      [0;0m
+[+] Check Amazon Cloud
+[0;0m    AWS Bucket            assets.example.com.s3.amazonaws.com       	PRIVATE   [0;0m
+[0;0m    AWS Bucket            config.example.com.s3.amazonaws.com       	PRIVATE   [0;0m
+[0;0m    AWS Bucket            example.com.demo.s3.amazonaws.com         	PRIVATE   [0;0m
+[0;0m    AWS Bucket            files.example.com.s3.amazonaws.com        	PRIVATE   [0;0m
+[0;0m    AWS Bucket            images.example.com.s3.amazonaws.com       	PRIVATE   [0;0m
+[0;0m    AWS Bucket            example.com.img.s3.amazonaws.com          	PRIVATE   [0;0m
+[0;0m    AWS Bucket            img.example.com.s3.amazonaws.com          	PRIVATE   [0;0m
+[0;0m    AWS Bucket            logs-example.com.s3.amazonaws.com         	PRIVATE   [0;0m
+[0;0m    AWS Bucket            logsexample.com.s3.amazonaws.com          	PRIVATE   [0;0m
+[0;0m    AWS Bucket            prod.example.com.s3.amazonaws.com         	PRIVATE   [0;0m
+[0;0m    AWS Bucket            public.example.com.s3.amazonaws.com       	PRIVATE   [0;0m
+[0;0m    AWS Bucket            example.com-production.s3.amazonaws.com   	PRIVATE   [0;0m
+[0;0m    AWS Bucket            s3.example.com.s3.amazonaws.com           	PRIVATE   [0;0m
+[0;0m    AWS Bucket            example.com-secrets.s3.amazonaws.com      	PRIVATE   [0;0m
+[0;0m    AWS Bucket            staging.example.com.s3.amazonaws.com      	PRIVATE   [0;0m
+[0;0m    AWS Bucket            storage.example.com.s3.amazonaws.com      	PRIVATE   [0;0m
+[0;0m    AWS Bucket            testexample.com.s3.amazonaws.com          	PRIVATE   [0;0m
+[0;0m    AWS Bucket            test-example.com.s3.amazonaws.com         	PRIVATE   [0;0m
+[0;0m    AWS Bucket            example.com.test.s3.amazonaws.com         	PRIVATE   [0;0m
+[0;0m    AWS Bucket            webexample.com.s3.amazonaws.com           	PRIVATE   [0;0m
+[+] Check Azure Cloud
+[0;0m    Storage Files         productcontent.example.com.file.core.windows.net	DOMAIN    [0;0m
+[0;0m    CloudApp              example.com.data.cloudapp.net             	DOMAIN    [0;0m
+[0;0m    Key Vaults            private-example.com.vault.azure.net       	DOMAIN    [0;0m
+[0;0m    API Services          example.com-files.azure-api.net           	DOMAIN    [0;0m
+[+] Check Alibaba Cloud

@@ -1,0 +1,8 @@
+example.com - 23.192.228.80
+example.com - 23.192.228.84
+example.com - 23.215.0.136
+example.com - 23.215.0.138
+www.example.com - 23.63.108.218
+www.example.com - 23.63.108.243
+example.com - 96.7.128.175
+example.com - 96.7.128.198
